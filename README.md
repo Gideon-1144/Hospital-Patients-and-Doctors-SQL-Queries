@@ -1,6 +1,10 @@
-# Hospital-Patients-and-Doctors-SQL-Queries
+# Hospital Patients and Doctors: SQL Queries
 
 A set of SQL queries I wrote to practice joining tables and answering questions from hospital data. The data has two tables: one for doctors and one for patients.
+
+## Preview
+
+![SQL queries](IMG_4027.png)
 
 ## Tables
 
@@ -25,13 +29,10 @@ The two tables are linked through `Doctor_ID`.
 
 I wrote these in SQL Server, so `TOP 1` may need to change to `LIMIT 1` on MySQL or PostgreSQL.
 
-## Preview
-
-![IMG_4027.png](images/sql-queries.png)
-
 ## Files
 
-- `SQL_Assignment.sql`: all the queries, with a comment above each one explaining what it does
+- `SQL_Assigment.sql`: all the queries, with a comment above each one explaining what it does
+- `IMG_4027.png`: screenshot of the queries
 
 ## What I learned
 
