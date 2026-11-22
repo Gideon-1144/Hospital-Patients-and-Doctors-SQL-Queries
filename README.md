@@ -27,7 +27,7 @@ I wrote these in SQL Server, so `TOP 1` may need to change to `LIMIT 1` on MySQL
 
 ## Preview
 
-![SQL queries](images/sql-queries.png)
+![IMG_4027.png](images/sql-queries.png)
 
 ## Files
 
