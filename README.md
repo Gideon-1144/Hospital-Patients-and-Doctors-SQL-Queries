@@ -40,4 +40,4 @@ This project helped me get comfortable with joins and with grouping data correct
 ## Author
 
 Gideon Adebayo
-[LinkedIn link]
+www.linkedin.com/in/gideon-adebayo-
